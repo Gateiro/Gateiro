@@ -14,6 +14,7 @@
         <div align="left" >
           <h3><b>🌟 Sobre mim</b></h3>
           <p align="left">
+            🖥️ Trabalho com Suporte e Monitoramento na WayTech Soluções em Tecnologia
             📊 Estudante de Tecnologia e Desenvolvimento<br>
             🛠️ Experiência em análise de dados e ferramentas como AWS, Grafana, Centreon, Zabbix<br>
             💬 Domínio de plataformas como Jira, Zendesk e Applix para gestão de chamados<br>
