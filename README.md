@@ -1,7 +1,8 @@
 <div>
   <table>
     <td>
-      <h1><b>Olá, eu sou o Matheus<br>e você chegou ao meu perfil :coffee: </b></h1>
+      <h1><b>Olá, eu sou o Matheus</b></h1><br>
+      <p align="center">Boas-vindas ao meu perfil! :coffee: </p>
     </td>
     <td>
      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ1YjViOThlZWRjOG80amdubWk4M2pxb3d2N3gyc3hnN3h6d24yYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" alt="banner"/> 
