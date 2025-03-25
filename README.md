@@ -11,10 +11,14 @@
   <table>
     <td colspan="2">
         <!-- Quadro personalizado para o perfil -->
+      </td>
+    <tr>
+      <tr>
+      <td>
         <div align="left" >
           <h3><b>🌟 Sobre mim</b></h3>
           <p align="left">
-            🖥️ Trabalho com Suporte e Monitoramento na WayTech Soluções em Tecnologia
+            🖥️ Trabalho com Suporte e Monitoramento na WayTech Soluções em Tecnologia<br>
             📊 Estudante de Tecnologia e Desenvolvimento<br>
             🛠️ Experiência em análise de dados e ferramentas como AWS, Grafana, Centreon, Zabbix<br>
             💬 Domínio de plataformas como Jira, Zendesk e Applix para gestão de chamados<br>
@@ -23,15 +27,6 @@
             📌 Sempre buscando a melhor versão do meu trabalho com as ferramentas disponíveis<br>
           </p>
         </div>
-      </td>
-    <tr>
-      <tr>
-      <td>
-        <img
-          align="left"
-          src="https://github-readme-stats.vercel.app/api?username=Gateiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10"
-          alt="Github Stats"
-        />
       </td>
       <td>
         <img
